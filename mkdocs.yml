@@ -14,7 +14,8 @@ theme:
 
 nav:
  - Introduction: index.md
- - SectionA: sectionA/index.md
+ - SectionA:
+  - sectionA/index.md
   - Part 1: sectionA/page1.md
   - Part 2: sectionA/page2.md
   - Part 3: sectionA/page3.md
