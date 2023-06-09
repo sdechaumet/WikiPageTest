@@ -11,7 +11,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
-
+    - toc.integrate
 nav:
   - Introduction: index.md
   - SectionA:
